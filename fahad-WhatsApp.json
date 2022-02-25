@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "Fahad WhatsApp v3.9.1F",
-      "code": 20,
+      "version": "FaHaD WhatsAppb♚ v4.0.0",
+      "code": 38,
       "url": "https://fahadwhatsapp.blogspot.com/?m=1",
-      "changelog": "- Wave Home UI - Quick Reply Dialog - New Chat Translator - Chat Editor -> Drawer Settings - Day Night Mode -> Drawer Home - Fix Hidden Chat -> Quick Contact - Fix Divider Color and View - Fix Media Size - Fix Unsave Number Dialog - More.. "
+      "changelog": "- Base 9.21 - Chat Reactions - Preferences Card UI - ContextMenu (long click name row) - Custom Language for Yandex Translator - Chat Video Splitter - Call Privacy set to Not Answered"
     }
   ]
 }
